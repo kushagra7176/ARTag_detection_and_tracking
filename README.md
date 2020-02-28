@@ -14,9 +14,9 @@ Instructions to run the code:
 1.Using Command Prompt:
 
 Run the following command in command prompt:
---python ...PATH...\kartik97_hw2\Code\AR_Tag_Cube.py      // use python3 if using Linux based OS
+--python ...PATH...\Code\AR_Tag_Cube.py      // use python3 if using Linux based OS
 
---python ...PATH...\kartik97_hw2\Code\AR_Tag_Lena.py 
+--python ...PATH...\Code\AR_Tag_Lena.py 
 
 2.Using PyCharm or any other IDE:
 
