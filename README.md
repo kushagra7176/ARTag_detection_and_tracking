@@ -1,5 +1,4 @@
 # ENPM 690 Robot Learning
-@ Author Kartik Venkat, Kushagra Agrawal, Nikhil Lal Kolangara
 
 This project covers the following:
 
